@@ -15,4 +15,4 @@ $(BIN):
 
 
 # Windows compile manually with mingw:
-# gcc main_win.c -I. -lgdi32 -ld3d9 -o bin/schack.exe
+# gcc main_win.c -I. -lgdi32 -ld3d9 -o bin/schack_cygwin.exe

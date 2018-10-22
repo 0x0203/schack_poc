@@ -676,7 +676,7 @@ popup:
 					    0, 25, nk_vec2(300,300));
 	    nk_layout_row_dynamic(ctx, 35, 1);
 	    ctx->style.button = frequency_locked ? active_button_style : inactive_button_style;
-	    int foo = 0;
+	    static int foo = 0;
 	    if (nk_button_label(ctx, "Launch Attack") && frequency_locked)
 	    {
 		foo = 1;
