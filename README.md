@@ -1,6 +1,6 @@
 # SC Hack Proof-of-Concept
 
-Before going any further, you should know and accept that the code for this is bad. Not just what-the-cat-coughed-up bad. No... this is as if Cerberus himself reared back and spewed forth from its gullets an unholy rancid torrent of vulgar and noxious bile thick enough to flood the streets and sweep away a herd of small horses. 
+Before going any further, you should know and accept that the code for this is bad. Not just what-the-cat-coughed-up bad. No... this is as if Cerberus himself reared back and spewed forth from the depths of hell an unholy rancid torrent of noxious bile thick and fast enough to flood the streets and sweep away a herd of wild horses. 
 
 This is throw-away code. It was hacked together over the course of a few days simply as something to use while figuring out the [Nuklear GUI Toolkit](https://github.com/vurtun/nuklear). This project was never intended to be used for anything beyond that, and I'm fairly confident you don't want to use it for anything else either. You probably just want to download the appropriate binary for your system and run the demo. 
 
