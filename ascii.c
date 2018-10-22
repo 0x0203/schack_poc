@@ -1,4 +1,4 @@
-/* public domain */
+/* schack PoC - public domain */
 
 const char ascii_table[] =
 "  Dec   Hex   Char                          Dec   Hex   Char          Dec   Hex   Char         Dec   Hex   Char\n"

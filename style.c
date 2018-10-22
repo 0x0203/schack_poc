@@ -1,3 +1,4 @@
+/* schack PoC - derived from nuklear - v1.00 - public domain */
 typedef enum theme {THEME_BLACK, THEME_WHITE, THEME_RED, THEME_BLUE, THEME_DARK} e_theme;
 
 static void

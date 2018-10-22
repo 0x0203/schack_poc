@@ -1,3 +1,4 @@
+/* schack PoC - public domain */
 #ifndef SCHACK_PACKET_H
 #define SCHACK_PACKET_H
 

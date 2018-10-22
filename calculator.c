@@ -1,4 +1,4 @@
-/* derived from nuklear - v1.00 - public domain */
+/* schack PoC - derived from nuklear - v1.00 - public domain */
 
 #define WIN_CALC_NAME "Integer Calculator"
 
