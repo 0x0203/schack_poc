@@ -23,6 +23,8 @@ For the purposes of this demo, the number of bytes per hop, number of hops, freq
 ## Known Issues 
 Resizing the window on Windows systems causes the program to crash. As I am neither a game developer, or a Windows programmer, I choose to assume this is due to a problem in the Nuklear direct 3D implementation found in nuklear_d3d9.h. Resizing the window works as expected on Linux.
 
+The ASCII chart doesn't seem to work on Windows systems. Searching for 'man ascii' on your favorite search engine will get you the necessary data. 
+
 ## Building
 Developed primarily for 64-bit Linux running an X11 window manager. Development was done on Linux Mint 18.3 and XFCE with gcc 5.4.0. The windows builds were done on Windows 7 (64 bit).
 
